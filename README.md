@@ -1,5 +1,2 @@
 # qer
-
-fly omg
-
-
+A injectable PYTHON minecraft hack client.
